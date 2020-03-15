@@ -23,7 +23,7 @@ ssr.sh
 ### 下载安装:
 
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/weiaijie/doubi-SSR/master/ssrn.sh && chmod +x ssr.sh && bash ssrn.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/weiaijie/doubi-SSR/master/ssrn.sh && chmod +x ssrn.sh && bash ssrn.sh
 ```
 
 ``` bash
