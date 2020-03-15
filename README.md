@@ -21,6 +21,11 @@ ssr.sh
 - 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
 
 ### 下载安装:
+
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/weiaijie/doubi-SSR/master/ssrn.sh && chmod +x ssr.sh && bash ssrn.sh
+```
+
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
